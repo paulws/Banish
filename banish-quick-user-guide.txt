@@ -1,0 +1,36 @@
+Banish - Quick User Guide
+===========================
+
+Creating the net
+=================
+
+To add a node, click on the display and either select the add node button or press “a” on the keyboard.
+
+To delete a node, click inside it, press the delete node button or press “d” on the keyboard.
+
+Nodes can be moved around by left clicking and dragging inside a node.
+
+A node can also be resized by left clicking and dragging inside the small box in the corner
+(this is for when there is more information that we would want to store/display for each node.)
+
+To connect two nodes, right click inside the start node and drag to the end node.
+To delete a connection repeat the same process.
+
+The display can be zoomed with a mouse wheel and re-centred by left clicking and dragging outside a node box.
+
+To observe a node, select it and either right click inside it, press “o” on the keyboard or press the observe node button.
+
+Populating a node.
+===================
+
+To populate a node either select edit node or double click inside a node. States can be added with the insert state button.
+To delete a state, select the edit box of the state to delete before pressing the “delete state” button. Probabilities of all the states (columns) should add up to one.
+
+If a node has parent nodes, with undefined states, it will not be possible to define the probabilities.
+
+Node colour coding.
+===================
+
+A red box has undefined states.
+A Black and red box has defined states but an undefined population.
+A purple and black node is being observed.
