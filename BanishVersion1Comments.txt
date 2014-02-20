@@ -1,4 +1,0 @@
-Banish Version 1.0 - Comments
-================================
-
-Please add any comments, bugs, desired features etc. for the Banish application.
